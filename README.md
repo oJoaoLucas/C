@@ -1,2 +1,2 @@
 # c
-Primeiros projetos em C
+Primeiros projetos da faculdade em C
