@@ -1,4 +1,4 @@
-# Questões do BEECROWD Resolvidas em C.
+# Questões resolvidas em C.
 
-Meu perfil: https://www.beecrowd.com.br/judge/pt/profile/639422
+Meu perfil Beecrowd: https://www.beecrowd.com.br/judge/pt/profile/639422
 
